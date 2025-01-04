@@ -7,3 +7,7 @@ chromadb==0.5.0
 streamlit==1.35.0
 pandas==2.0.2
 python-dotenv==1.0.0
+PyPDF2==2.11.1  # or the latest version
+streamlit==1.20.0
+langchain==0.0.175
+langchain-groq==0.0.1
